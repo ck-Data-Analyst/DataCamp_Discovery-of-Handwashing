@@ -1,1 +1,1 @@
-# DataCamp_Discovery-of-Handwashing
+# DataCamp Discovery of Handwashing
